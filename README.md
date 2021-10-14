@@ -8,4 +8,6 @@ Using a recurrent neural network (RNN) to predict whether a crypto currency will
 
 
 # Evaluation
+![alt text](https://github.com/Oliviervha/RNN_crypto_advisor/blob/main/plot.png?raw=true)
 
+![alt text](https://github.com/Oliviervha/RNN_crypto_advisor/blob/main/plot_rand.png?raw=true)
